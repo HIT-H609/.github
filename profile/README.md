@@ -1,12 +1,8 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+H609 实验室，成立于 2017 年，由电子科学与技术专业王新胜老师倾力打造，
+拥有各种设备设施，学习环境舒适。实验室主要研究遥控无人潜水器、电子设计 以
+及集成电路设计，主要参加全国海洋航行器设计与制作大赛、全国大学生电子 设计
+竞赛、全国大学生集成电路创新创业大赛以及其他科创比赛。
+H609 实验室自建立以来，数次获得全国海洋航行器设计与制作大赛国家特等奖、
+二等奖，集成电路创新设计大赛国家三等奖，全国集成电路创新创业大赛国家三等
+奖，FPGA 创新设计大赛国家二等奖、三等奖，挑战杯、信院“微电子杯”科创竞赛、
+校长杯等其余多种比赛奖项若干。连续多年被评为优秀科创集体。
